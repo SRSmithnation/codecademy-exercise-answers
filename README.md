@@ -1,6 +1,6 @@
-#Codecademy Answers
+## Codecademy Answers
 
-Ruby
+#### Ruby
 
-If you are currently improving your Ruby programming skills through Codecademy the solutions I wrote in my spare time are for the exercises.
+Improving my Ruby skills by writing and saving my answers to the [Learn Ruby course](https://www.codecademy.com/learn/learn-ruby) offered by Codecademy
 
